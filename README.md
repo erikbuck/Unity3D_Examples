@@ -6,5 +6,18 @@ The universe of game programming is so vast and diverse that it's impossible to 
 
 This repository contains some of the in-class examples produced by Mr. Buck for CS-3900-B01 - "Game Programming" in Summer 2018 at Wright State University. Due to the limited time for programming demonstrations, the examples are typically small and tightly focussed on answering as specific question about "how" to accomplish something. If you were not present in class, these examples may be of limited use because you missed the accompanying explanations and analysis.
 
+## Android1
+![Image of Android1](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/Android1/Android1.png)
+
+## ClockA
+![Image of Clock](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/ClockA/Clock.png)
+![Image of Android1](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/ClockA/MerryGoRound.png)
+
+## PegBoard
+![Image of PegBoard](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/PegBoard/PegBoard.png)
+
+## RobotArm
+![Image of RobotArm](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/RobotArm/RobotArm.png)
+
 ## TwoObjects
 ![Image of Cannon](http://cdn.rawgit.com/erikbuck/Unity3D_Examples/master/TwoObjects/Cannon.png)
