@@ -1,4 +1,4 @@
-This project implements uses physics implemenst two "Guage" objects. This is an exampel of creating 3D user interface elemnts and using the Edity editor to connect two or more objects together. Note how the Cannon.cs script and teh PowerBar.cs script are used together.
+This project uses physics and implements two "Gauge" objects. This is an example of creating 3D user interface elements and using the Unity editor to connect two or more objects together. Note how the Cannon.cs script and the PowerBar.cs script are used together.
 
 - Up and down keys chnage the power of the cannon shot 
 - "W" and "S" keys change the elevation of the cannon.
